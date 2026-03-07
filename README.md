@@ -10,7 +10,7 @@ This project proposes an intelligent, child-friendly toy with a built‑in Arabi
 -
 
 ## 2. enter the text into an Arabic LLM
--[HUMAIN ?](https://www.humain.com/en/humain-one/agents)
+- [HUMAIN ?](https://www.humain.com/en/humain-one/agents)
 -
 
 ## 3. generate response and ensure its safe for children
@@ -22,5 +22,5 @@ This project proposes an intelligent, child-friendly toy with a built‑in Arabi
 
 
 ### helpful sources?:
---> [be-more-agent](https://github.com/brenpoly/be-more-agent)
---> [arabic LLMs benchmarks](https://github.com/tiiuae/Arabic-LLM-Benchmarks)
+- -> [be-more-agent](https://github.com/brenpoly/be-more-agent)
+- -> [arabic LLMs benchmarks](https://github.com/tiiuae/Arabic-LLM-Benchmarks)
