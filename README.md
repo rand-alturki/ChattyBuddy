@@ -19,3 +19,7 @@ This project proposes an intelligent, child-friendly toy with a built‑in Arabi
 -
 -
 
+
+
+### helpful sources?:
+--> [be-more-agent](https://github.com/brenpoly/be-more-agent)
