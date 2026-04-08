@@ -9,7 +9,7 @@ This project proposes an intelligent, child-friendly toy with a built‑in Arabi
 - An Arabic speech-to-text model is used to recognize Arabic speech and convert it into text
   
 ## 2. Enter the text into an Arabic LLM
--jais
+- jais
 - The transcribed text is sent to a large language model such as ChatGPT, Gemini, Llama, or any other available model.
 
 ## 3. generate response and ensure its safe for children
