@@ -1,7 +1,7 @@
 
 
 
-# ChattyBuddy 🤖🧒
+# ChattyBuddy 
 
 An intelligent, child-friendly Arabic-speaking toy built on a Raspberry Pi. ChattyBuddy holds natural conversations with kids — telling stories, answering questions, and encouraging curiosity — in a safe, age-appropriate way.
 
